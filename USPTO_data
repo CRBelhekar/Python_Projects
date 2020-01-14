@@ -14,7 +14,7 @@ response = urlopen(request)
 html = response.read()
 
 # Print the html
-print(str(html))
+print(html)
 
 # Be polite and close the response!
 response.close()
