@@ -5,7 +5,7 @@ Author: April Chen, Data Scientist at Civis Analytics
 This repo contains several files:
 
 - Notebook:
-  - DePy_Talk.ipynb
+  - data_preprocessing.ipynb
 - Data:
   - adult.csv
 - Images:
